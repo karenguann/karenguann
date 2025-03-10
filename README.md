@@ -1,4 +1,5 @@
 # 💫 About Me:
+⭐ Hi! I'm Karen (she/her), a software developer passionate about bringing ideas to life through real-world projects. I have a love for designing graphics to enhance front-end experiences. Feel free to take a look at some of my work!
 🔭 Building side projects like Cave Divers, Rush, and FanTix—from 3D modelling in gaming to a new social media app to a concert ticket innovation.<br>🌱 Expanding my skills in back-end development, AI/ML, and fintech to merge tech with business.<br>💬 Startup idea? I’ll pitch you one on the spot from my Notes app.<br>⚡ Fun fact: I can shape my tongue into a clover. Not useful but kinda cool?
 
 # 💻 Tech Stack:
